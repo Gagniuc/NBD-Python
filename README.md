@@ -15,3 +15,5 @@ The second part extends the course through applied presentations and laboratory 
 - <i>Paul A. Gagniuc. Coding Examples from Simple to Complex - Applications in Javascript, Springer, 2024, pp. 1-240.</i>
 
 ***
+![Screenshot](https://github.com/Gagniuc/NBD-Python/blob/main/src/abstract.png)
+
